@@ -2,7 +2,7 @@
   "name": "@mylinkpi/tablestore",
   "main": "index.js",
   "description": "TableStore SDK for JavaScript",
-  "version": "5.5.2",
+  "version": "5.5.3",
   "devDependencies": {
     "mocha": "^3.2.0",
     "coveralls": "^2.13.1",
@@ -10,11 +10,11 @@
     "istanbul": "^0.4.5"
   },
   "dependencies": {
-    "agentkeepalive": "^4.2.1",
-    "buffer": "4.9.1",
-    "flatbuffers": "^1.5.0",
-    "int64-buffer": "0.1.9",
-    "protobufjs": "^6.11.3"
+    "agentkeepalive": "^4.5.0",
+    "buffer": "^6.0.3",
+    "flatbuffers": "^24.3.25",
+    "int64-buffer": "1.0.1",
+    "protobufjs": "^6.11.4"
   },
   "directories": {
     "doc": "doc",
